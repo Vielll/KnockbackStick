@@ -1,0 +1,11 @@
+name: KnockbackStick
+version: '${project.version}'
+author: Vieel
+main: it.vieel.KnockbackStick
+api-version: 1.13
+commands:
+  knockbackstick:
+    aliases:
+      - stick
+      - ks
+    description: ""
