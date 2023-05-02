@@ -1,7 +1,7 @@
 # KnockbackStick
 
 ## 🥜 Description
-A KnockbackStick Like fixacoral of CoralM
+A KnockbackStick Like fixacoral of CoralMC
 
 ## 📂 Download
 [Click for Download](https://www.spigotmc.org/resources/knockbackstick.109602/)
